@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/gameserver-2010-03-17.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/inieditor.jar"/>
+	<classpathentry kind="lib" path="libs/jdom.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="libs/pircbot.jar"/>
+	<classpathentry kind="lib" path="libs/QueriEd.jar"/>
+	<classpathentry kind="lib" path="libs/RconEd.jar"/>
+	<classpathentry kind="lib" path="libs/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/DefaultBot/libs/inieditor-r2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
